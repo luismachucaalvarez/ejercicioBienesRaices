@@ -1,3 +1,11 @@
+/** Globales **/
+
+.contenedor{
+    max-width: 1200px;
+    margin: 0 auto 0 auto;
+}
+
+
 /*Header*/
 
 .site-header.inicio{
